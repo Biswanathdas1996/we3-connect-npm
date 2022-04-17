@@ -1,0 +1,15 @@
+{
+  "name": "web3-access",
+  "version": "1.2.1",
+  "description": "Connect with blockchain network ",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "web3": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biswanath Das",
+  "license": "ISC"
+}
