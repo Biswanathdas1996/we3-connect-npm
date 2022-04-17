@@ -11,5 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Biswanath Das",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/Biswanathdas1996/we3-connect-npm.git"
 }
